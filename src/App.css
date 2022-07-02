@@ -1,0 +1,31 @@
+body {
+  background-image: url("https://physicsworld.com/wp-content/uploads/2020/08/sun-rays-152304506-Shutterstock_Volodymyr-Goinyk.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: rgb(99, 126, 232);
+  color: rgb(45, 45, 199);
+}
+.App {
+  text-align: center;
+  margin: 20px;
+}
+.card {
+  width: 350px;
+  margin: 0 auto;
+  padding: 15px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
+  background-color: rgba(164, 200, 236, 0.712);
+}
+.icon {
+  width: 150px;
+  text-align: center;
+  margin: 0 auto;
+}
+.temp{
+  margin: auto;
+}
+.button{
+  width: 180px;
+  margin: 0 auto;
+}
